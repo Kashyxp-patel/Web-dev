@@ -1,0 +1,47 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background: hsl(212, 45%, 89%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* This ensures that the container is centered vertically */
+    margin: 0;
+}
+
+.card {
+    width: 270px;
+    height: 410px;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 20px;
+}
+
+img {
+    width: 250px;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.text {
+    font-family: 'Outfit', sans-serif;
+    padding-top: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+    margin: 0px;
+}
+
+.header {
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.description {
+    font-size: 15px;
+    color: hsl(220, 15%, 55%);
+    text-align: center;
+    margin-bottom: 20px;
+}
