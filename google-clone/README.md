@@ -1,0 +1,2 @@
+# Web-dev
+My first frontend project i simply learnt html adn css yesterday and i tried cloning the frontend of googles search website its far away from being a proper clone but i am happy with the result.
